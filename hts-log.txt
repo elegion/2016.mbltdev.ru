@@ -1,0 +1,42 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 13 Jan 2017 12:13:36 at mbltdev.ru +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr5%e0C2%Ps2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" mbltdev.ru -O1 "C:\Users\DzAdmin\Documents\mbltnew10" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:13:37	Warning: 	Found for mbltdev.ru/
+12:13:37	Warning: 	File has moved from mbltdev.ru/ to http://mbltdev.ru/en
+12:15:06	Error: 	"Not Found" (404) at link mbltdev.ru/www.contentful.com (from mbltdev.ru/en)
+12:15:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mbltdev.ru/manifest.json
+12:15:09	Warning: 	HTML file (1564 bytes) retransferred due to lack of cache: mbltdev.ru/www.contentful.com
+12:15:10	Error: 	"Not Found" (404) at link mbltdev.ru/www.contentful.com (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/029/main/Дащак.jpg (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/021/main/арсенов.jpg (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/011/main/037c21a5c1f780da04028ac4446f4a93.jpg (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/003/main/шишкин.jpg (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/017/main/крапивенский.jpg (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/001/schedule/IMG_5331_optimised.JPG (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/002/schedule/AAEAAQAAAAAAAAlLAAAAJDM5ZTRjNTc0LWNlZWEtNGExMi05ZDBiLWZlNjE0MzdmNTcwMg.jpg (from mbltdev.ru/en)
+12:15:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/013/schedule/Romaine_profile_image2.jpg (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/017/schedule/крапивенский.jpg (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/027/schedule/зимин.jpg (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/030/schedule/касперыч.JPG (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/026/schedule/Sergey_Gvozdov_small.png (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/company_logos/000/000/019/original/skyeng.png (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/023/schedule/10514329_780071718703664_4330699786347686324_o.jpg (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/photos/000/000/020/schedule/карташов.jpg (from mbltdev.ru/en)
+12:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/partners/images/000/000/026/main/рамблер-белый.png (from mbltdev.ru/en)
+12:15:20	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from mbltdev.ru/en)
+12:15:20	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/assets/glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431.eot (from mbltdev.ru/assets/application-5fa24566ae10f4bb0c0514bf4818c6302b2d6f5dbd8385c7300159e258298e49.css)
+12:15:20	Warning: 	Retry after error -4 (No data (connection closed)) at link mbltdev.ru/system/speakers/company_logos/000/000/019/original/skyeng.png (from mbltdev.ru/en)
+12:15:20	Error: 	"Not Found" (404) at link mbltdev.ru/Popover requires tooltip.js (from mbltdev.ru/assets/application-bf3bc0432481a1b47568cdbdfb9a901ee3f8ee8e7c622629c8677bf23d7b680f.js)
+12:15:20	Error: 	"Not Found" (404) at link mbltdev.ru/get (from https://mc.yandex.ru/metrika/watch.js)
+12:15:20	Warning: 	Moved Permanently for mbltdev.ru/path=/
+12:15:20	Warning: 	File has moved from mbltdev.ru/path=/ to http://mbltdev.ru/path=
+12:15:23	Warning: 	Note: due to https://mc.yandex.ru remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+12:15:23	Error: 	"Error when decompressing" (-1) at link mbltdev.ru/path= (from mbltdev.ru/path=/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 47 seconds : 178 links scanned, 181 files written (3568333 bytes overall) [2612464 bytes received at 24415 bytes/sec], 681507 bytes transferred using HTTP compression in 19 files, ratio 25%, 3.5 requests per connection
+(6 errors, 25 warnings, 0 messages)
